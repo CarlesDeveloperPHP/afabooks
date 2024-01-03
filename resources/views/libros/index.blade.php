@@ -1,9 +1,9 @@
 @extends('layouts.plantilla')
 
-@section('title', 'Home')
+@section('title', 'AFA Intercanvi de llibres')
 
 @section('content')
-<div class="max-w-screen-sm mx-auto mt-14 ">
+<div class="max-w-screen-sm mx-auto mt-24 ">
     <div class="hidden md:block bg-green-200 p-6 rounded-lg shadow-md mx-auto my-2 text-center w-2/3 mt-4 mb-8">
         <p class="text-gray-700">
             Muchas Gracias por unirte a nuestra campaña para rutilizar libros.
